@@ -1,6 +1,6 @@
 
 #luam inputul de la tastatura
-number = int(input("Numar care urmeaza a fi verificat: "))
+number = float(input("Numar care urmeaza a fi verificat: "))
 
 #calculam daca este numar par
 

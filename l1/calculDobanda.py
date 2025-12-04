@@ -1,10 +1,10 @@
 def main():
-    print("--- Calculator de Dobândă Simplă ---")
+    print("--- Calculator de Dobanda simpla ---")
 
     # 1. Preluăm datele de la utilizator (Input)
-    principal = float(input("Introdu suma principală (Principal): "))
-    rata = float(input("Introdu rata anuală a dobânzii (fără %, ex: 5): "))
-    timp = float(input("Introdu perioada în ani (Time): "))
+    principal = float(input("Introdu suma principala (Principal): "))
+    rata = float(input("Introdu rata anuală a dobanzii (fara %, ex: 5): "))
+    timp = float(input("Introdu perioada in ani (Time): "))
 
     # 2. Calculăm dobânda (Processing)
     # Folosim formula: (P * R * T) / 100
@@ -15,9 +15,12 @@ def main():
 
     # 3. Afișăm rezultatul (Output)
     print("-" * 30)
-    print(f"Suma Principală: {principal}")
-    print(f"Dobânda calculată: {dobanda}")
-    print(f"Total (Principal + Dobândă): {total}")
+    print(f"Suma Principala: {principal}")
+    print(f"Dobanda calculată: {dobanda}")
+    print(f"Total (Principal + Dobanda): {total}")
 
 if __name__ == "__main__":
     main()
+
+
+    
