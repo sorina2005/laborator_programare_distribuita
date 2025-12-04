@@ -1,10 +1,24 @@
+print("--- Verificare Paritate (Par/Impar) ---")
 
-#luam inputul de la tastatura
-number = int(input("Numar care urmeaza a fi verificat: "))
+number = 0
 
-#calculam daca este numar par
+# --- Pasul 1: Citire și Validare ---
+while True:
+    try:
+        # Citim de la tastatură
+        input_utilizator = input("Numar care urmeaza a fi verificat: ")
 
+        # Încercăm conversia în număr întreg (int)
+        number = int(input_utilizator)
+
+        # Dacă a reușit conversia, ieșim din buclă
+        break
+    except ValueError:
+        print("Eroare! Te rog introdu un număr întreg valid (fără litere sau virgulă).")
+
+# --- Pasul 2: Verificarea propriu-zisă ---
+# Un număr este par dacă restul împărțirii la 2 este 0
 if number % 2 == 0:
-    print(f"{number} este un numar par.")
-else: print(f"{number} este un numar impar.")
-
+    print(f"{number} este un număr par.")
+else:
+    print(f"{number} este un număr impar.")

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
-      <change afterPath="$PROJECT_DIR$/l1/verificareNumarPrim.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/l1/parOrImpar.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1/parOrImpar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/l1/calculDobanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1/calculDobanda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/l1/conversieCelsiusToFarenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1/conversieCelsiusToFarenheit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/l1/verificareNumarPrim.py" beforeDir="false" afterPath="$PROJECT_DIR$/l1/verificareNumarPrim.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ParSauImpar.executor": "Run",
     "Python.calculDobanda.executor": "Run",
+    "Python.conversieCelsiusToFarenheit.executor": "Run",
     "Python.ex1.executor": "Run",
     "Python.parOrImpar.executor": "Run",
     "Python.verificareNumarPrim.executor": "Run",
