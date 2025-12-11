@@ -21,7 +21,7 @@ while True:
         break
 
     except ValueError:
-        print("Ai introdus text. Te rog introdu un număr (cifre).")
+        print("Ai introdus text. Te rog introdu un număr intreg(cifre).")
 
 # --- Pasul 2: Logica de verificare ---
 este_prim = True
@@ -40,6 +40,6 @@ else:
 # --- Pasul 3: Afișare ---
 print("-" * 30)
 if este_prim:
-    print(f"Rezultat: {numar} ESTE număr prim.")
+    print(f"Rezultat: {numar} ESTE numar prim.")
 else:
-    print(f"Rezultat: {numar} NU este număr prim.")
+    print(f"Rezultat: {numar} NU este numar prim.")
