@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
-      <change afterPath="$PROJECT_DIR$/L4/maximumMinimum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L4/removeDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L4/tupleElementSearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/invertedIndex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/uniquePairSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L5/wordFrequncy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +52,14 @@
     "Python.calculDobanda.executor": "Run",
     "Python.conversieCelsiusToFarenheit.executor": "Run",
     "Python.ex1.executor": "Run",
+    "Python.invertedIndex.executor": "Run",
     "Python.maximumMinimum.executor": "Run",
     "Python.parOrImpar.executor": "Run",
+    "Python.removeDuplicates.executor": "Run",
+    "Python.tupleElementSearch.executor": "Run",
+    "Python.uniquePairSum.executor": "Run",
     "Python.verificareNumarPrim.executor": "Run",
+    "Python.wordFrequncy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
