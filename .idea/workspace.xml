@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L6/reverseWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/L6/reverseWords.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,31 +42,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ParSauImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculDobanda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversieCelsiusToFarenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.invertedIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maximumMinimum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parOrImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.removeDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tupleElementSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Python.uniquePairSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.verificareNumarPrim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wordFrequncy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ciobanu Doina/Desktop/laborator_programare_distribuita&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ParSauImpar.executor": "Run",
+    "Python.calculDobanda.executor": "Run",
+    "Python.conversieCelsiusToFarenheit.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.invertedIndex.executor": "Run",
+    "Python.maximumMinimum.executor": "Run",
+    "Python.parOrImpar.executor": "Run",
+    "Python.removeDuplicates.executor": "Run",
+    "Python.tupleElementSearch.executor": "Run",
+    "Python.uniquePairSum.executor": "Run",
+    "Python.verificareNumarPrim.executor": "Run",
+    "Python.wordFrequncy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Ciobanu Doina/Desktop/laborator_programare_distribuita",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -94,6 +100,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
         <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
@@ -105,6 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764829641343</updated>
+      <workItem from="1768383581692" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="ex 1 resolved and created file 1">
       <option name="closed" value="true" />
@@ -116,6 +124,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex 1 resolved and created file 1" />
