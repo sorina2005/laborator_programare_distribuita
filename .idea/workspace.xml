@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
-      <change beforePath="$PROJECT_DIR$/L6/reverseWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/L6/reverseWords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/countWords.py" beforeDir="false" afterPath="$PROJECT_DIR$/L7/countWords.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +47,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ParSauImpar.executor": "Run",
     "Python.calculDobanda.executor": "Run",
+    "Python.comprimedFile.executor": "Run",
     "Python.conversieCelsiusToFarenheit.executor": "Run",
     "Python.ex1.executor": "Run",
     "Python.invertedIndex.executor": "Run",
     "Python.maximumMinimum.executor": "Run",
+    "Python.palindromeCheck.executor": "Run",
     "Python.parOrImpar.executor": "Run",
     "Python.removeDuplicates.executor": "Run",
+    "Python.reverseWords.executor": "Run",
     "Python.tupleElementSearch.executor": "Run",
     "Python.uniquePairSum.executor": "Run",
     "Python.verificareNumarPrim.executor": "Run",
@@ -112,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764829641343</updated>
-      <workItem from="1768383581692" duration="338000" />
+      <workItem from="1768383581692" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="ex 1 resolved and created file 1">
       <option name="closed" value="true" />
@@ -131,5 +134,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex 1 resolved and created file 1" />
     <option name="LAST_COMMIT_MESSAGE" value="ex 1 resolved and created file 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laborator_programare_distribuita$reverseWords.coverage" NAME="reverseWords Coverage Results" MODIFIED="1768384050695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
+    <SUITE FILE_PATH="coverage/laborator_programare_distribuita$comprimedFile.coverage" NAME="comprimedFile Coverage Results" MODIFIED="1768384070804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
+    <SUITE FILE_PATH="coverage/laborator_programare_distribuita$palindromeCheck.coverage" NAME="palindromeCheck Coverage Results" MODIFIED="1768384058387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
   </component>
 </project>
