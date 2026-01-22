@@ -12,19 +12,19 @@ class BankAccount:
         """Metoda pentru depunere."""
         if amount > 0:
             self._balance += amount
-            print(f"✅ Ai depus {amount} RON. Sold nou: {self._balance} RON.")
+            print(f" Ai depus {amount} RON. Sold nou: {self._balance} RON.")
         else:
-            print("❌ Suma depusă trebuie să fie pozitivă.")
+            print(" Suma depusă trebuie să fie pozitivă.")
 
     def withdraw(self, amount):
         """Metoda pentru retragere."""
         if amount > self._balance:
-            print(f"❌ Fonduri insuficiente! Ai doar {self._balance} RON.")
+            print(f" Fonduri insuficiente! Ai doar {self._balance} RON.")
         elif amount <= 0:
-            print("❌ Suma retrasă trebuie să fie pozitivă.")
+            print(" Suma retrasă trebuie să fie pozitivă.")
         else:
             self._balance -= amount
-            print(f"✅ Ai retras {amount} RON. Sold rămas: {self._balance} RON.")
+            print(f" Ai retras {amount} RON. Sold rămas: {self._balance} RON.")
 
     def get_balance(self):
         """Metoda getter pentru a vedea soldul."""
