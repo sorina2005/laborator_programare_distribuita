@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/analyzeData.py" beforeDir="false" afterPath="$PROJECT_DIR$/L11/analyzeData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/firmSale.py" beforeDir="false" afterPath="$PROJECT_DIR$/L11/firmSale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/vanzari_companie - vanzari_companie.csv" beforeDir="false" afterPath="$PROJECT_DIR$/L11/vanzari_companie.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/meteoAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/L12/meteoAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/userAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/L12/userAPI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +54,17 @@
     "Python.calculDobanda.executor": "Run",
     "Python.comprimedFile.executor": "Run",
     "Python.conversieCelsiusToFarenheit.executor": "Run",
+    "Python.criptoAPI.executor": "Run",
     "Python.divideNumbers.executor": "Run",
     "Python.employeeManaging.executor": "Run",
     "Python.ex1.executor": "Run",
     "Python.invertedIndex.executor": "Run",
     "Python.main.executor": "Run",
     "Python.maximumMinimum.executor": "Run",
+    "Python.meteoAPI.executor": "Run",
     "Python.palindromeCheck.executor": "Run",
     "Python.parOrImpar.executor": "Run",
+    "Python.products.executor": "Run",
     "Python.removeDuplicates.executor": "Run",
     "Python.reverseWords.executor": "Run",
     "Python.tupleElementSearch.executor": "Run",
@@ -136,7 +138,7 @@
       <workItem from="1769062304563" duration="921000" />
       <workItem from="1769063648364" duration="1307000" />
       <workItem from="1769371536893" duration="61000" />
-      <workItem from="1770723602648" duration="1669000" />
+      <workItem from="1770723602648" duration="2027000" />
     </task>
     <task id="LOCAL-00001" summary="ex 1 resolved and created file 1">
       <option name="closed" value="true" />
@@ -161,8 +163,10 @@
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$comprimedFile.coverage" NAME="comprimedFile Coverage Results" MODIFIED="1768384070804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$main.coverage" NAME="main Coverage Results" MODIFIED="1769062956725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$employeeManaging.coverage" NAME="employeeManaging Coverage Results" MODIFIED="1769063232284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L9" />
+    <SUITE FILE_PATH="coverage/laborator_programare_distribuita$analyzeData.coverage" NAME="analyzeData Coverage Results" MODIFIED="1770725179500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L11" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$bankAccount.coverage" NAME="bankAccount Coverage Results" MODIFIED="1769063113251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L9" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$automationMoneyConverter.coverage" NAME="automationMoneyConverter Coverage Results" MODIFIED="1770724713115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L13" />
+    <SUITE FILE_PATH="coverage/laborator_programare_distribuita$products.coverage" NAME="products Coverage Results" MODIFIED="1770725401112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L11" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$divideNumbers.coverage" NAME="divideNumbers Coverage Results" MODIFIED="1770724908827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10" />
     <SUITE FILE_PATH="coverage/laborator_programare_distribuita$palindromeCheck.coverage" NAME="palindromeCheck Coverage Results" MODIFIED="1768384058387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
   </component>
