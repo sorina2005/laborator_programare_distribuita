@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060e9ce1-e87f-44aa-9524-f63142df2f45" name="Changes" comment="ex 1 resolved and created file 1">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L10/addNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L10/divideNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L10/manageProducts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L11/analyzeData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L11/firmSale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L11/products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L10/date_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/laborator_programare_distribuita.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laborator_programare_distribuita.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/addNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/L10/addNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/divideNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/L10/divideNumbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +51,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ParSauImpar.executor": "Run",
+    "Python.automationMoneyConverter.executor": "Run",
     "Python.bankAccount.executor": "Run",
     "Python.calculDobanda.executor": "Run",
     "Python.comprimedFile.executor": "Run",
     "Python.conversieCelsiusToFarenheit.executor": "Run",
+    "Python.divideNumbers.executor": "Run",
     "Python.employeeManaging.executor": "Run",
     "Python.ex1.executor": "Run",
     "Python.invertedIndex.executor": "Run",
@@ -71,12 +71,13 @@
     "Python.verificareNumarPrim.executor": "Run",
     "Python.wordFrequncy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/laborator_programare_distribuita",
+    "last_opened_file_path": "D:/laborator_programare_distribuita/L11",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +88,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laborator_programare_distribuita\L11" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -131,7 +137,7 @@
       <workItem from="1769062304563" duration="921000" />
       <workItem from="1769063648364" duration="1307000" />
       <workItem from="1769371536893" duration="61000" />
-      <workItem from="1770723602648" duration="301000" />
+      <workItem from="1770723602648" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="ex 1 resolved and created file 1">
       <option name="closed" value="true" />
